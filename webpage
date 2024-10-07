@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Metal Craft Al-Ain</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f0f0f0;
+			border: 10px solid #FFA07A; /* orange border */
+		}
+		.header {
+			background-color: #333;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+		.content {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding: 20px;
+		}
+		.section {
+			background-color: #fff;
+			padding: 20px;
+			margin-bottom: 20px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		}
+		.image-header {
+			background-image: url('http://metalcraftme.com/wp-content/uploads/2016/07/Metal1-e1469428696894.jpg');
+			background-size: cover;
+			background-position: center;
+			height: 300px;
+			margin-bottom: 20px;
+		}
+		.contact-info {
+			font-size: 18px;
+			color: #333;
+			margin-bottom: 20px;
+		}
+	</style>
+</head>
+<body>
+	<header class="header">
+		<div class="image-header"></div>
+		<div class="contact-info">
+			<p>+91 9717111351 | <a href="mailto:sales@metalcraftme.com">sales@metalcraftme.com</a></p>
+		</div>
+		<h1>Metal Craft Al-Ain</h1>
+	</header>
+	<div class="content">
+		<section class="section">
+			<h2>About Metals and Steel</h2>
+			<p>Metal Craft Al-Ain is dedicated to providing information and resources for youngsters interested in the metal and steel industry. Metals and steel are essential materials used in various industries, including construction, manufacturing, and transportation.</p>
+			<ul>
+				<li>Metals: Metals are naturally occurring elements that are typically hard, shiny, and good conductors of electricity. Examples of metals include iron, copper, and aluminum.</li>
+				<li>Steel: Steel is an alloy of iron and carbon, known for its strength, durability, and versatility. It is widely used in construction, transportation, and consumer goods.</li>
+			</ul>
+		</section>
+		<section class="section">
+			<h2>Getting into the Business</h2>
+			<p>If you're a youngster interested in pursuing a career in the metal and steel industry, here are some steps to get started:</p>
+			<ol>
+				<li>Research: Learn about the different types of metals and steel, their properties, and applications.</li>
+				<li>Education: Consider enrolling in vocational training or degree programs in fields like metallurgy, materials science, or mechanical engineering.</li>
+				<li>Internship: Look for internship opportunities with metal and steel companies to gain hands-on experience.</li>
+				<li>Networking: Attend industry events and join professional organizations to connect with professionals in the field.</li>
+			</ol>
+		</section>
+		<section class="section">
+			<h2>Services</h2>
+			<ul>
+				<li>Consultancy and sourcing in Hydraulics, Vacuum Pumps and accessories.</li>
+				<li>Consultancy and sourcing in truck body manufacturing parts and spares</li>
+				<li>Consultancy and sourcing of truck and trolley Axles, Hubs</li>
+				<li>Storage Tank Design (API 650 & 620)</li>
+				<li>Structural Steel Design</li>
+				<li>Galvanising, chrome plating and powder coating services.</li>
+				<li>Design and manufacture of Hydraulic power press.</li>
+				<li>Fuel Tank accessories and safety systems installation.</li>
+				<li>Fuel tank conversion to Pneumatic systems.</li>
+				<li>Piping Networks Design, Analysis & Verification</li>
+				<li>Steel Material Selection and Procurement</li>
+				<li>Mechanical Equipment Selection and Procurement</li>
+				<li>Erection and Construction of Storage Tanks, Structures, Pipe work and Equipments</li>
+				<li>Surface Treatment, Insulation & Cathodic Protection</li>
+				<li>Precast Molding.</li>
+				<li>Conveyors design</li>
+			</ul>
+		</section>
+	</div>
+</body>
+</html>
+``
